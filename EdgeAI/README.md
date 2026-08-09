@@ -1,4 +1,4 @@
-#Edge AI Real-Time Image Classification using TensorFlow Lite
+**#Edge AI Real-Time Image Classification using TensorFlow Lite**
 
 Recently , I had chance to learn about  the hardware edge inference , for edge device and ai in it .... that why i tried to run a simple image classification model in laptop where i get to know about how the model trained loaded and its constraint like OpenCV uses BGR color format, while PIL expects RGB and other things ... hence i just tried out to experience how things work ... lol 
 
